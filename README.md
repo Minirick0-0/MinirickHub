@@ -1,0 +1,2 @@
+# MinirickHub
+Scripts by minirick
